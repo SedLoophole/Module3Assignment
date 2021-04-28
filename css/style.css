@@ -9,6 +9,7 @@ p{
 
 h1 {
     padding-bottom: 60px;
+    padding-top: 20;
 }
 
 .row {
@@ -21,6 +22,7 @@ h1 {
 
 .container-fluid {
     padding: 0px;
+    margin: 0%;
 }
 
 .container-fluid .navbar-brand {
@@ -29,7 +31,8 @@ h1 {
 
 .navbar .navbar-toggler {
     margin-right: 15px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .navbar .nav-item {
@@ -46,4 +49,8 @@ h1 {
 .navbar-nav {
     border: px solid black;
 
+}
+
+.navbar {
+    padding: 0%;
 }
