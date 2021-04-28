@@ -11,3 +11,39 @@ h1 {
     padding-bottom: 60px;
 }
 
+.row {
+    
+    background-color: darkcyan;
+    margin: 30px;
+    height: 1000px;
+}
+
+
+.container-fluid {
+    padding: 0px;
+}
+
+.container-fluid .navbar-brand {
+    padding-left: 15px;
+}
+
+.navbar .navbar-toggler {
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+
+.navbar .nav-item {
+    text-align: center;
+    
+}
+
+.navbar ul li {
+    background-color: darkred;
+    border-top: 2px solid black;
+
+}
+
+.navbar-nav {
+    border: px solid black;
+
+}
