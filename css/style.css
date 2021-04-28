@@ -1,4 +1,13 @@
-body{
-    background-color: darkslategray;
-    
+*{
+    box-sizing: border-box;
 }
+
+
+p{
+    padding: 4%;
+}
+
+h1 {
+    padding-bottom: 60px;
+}
+
